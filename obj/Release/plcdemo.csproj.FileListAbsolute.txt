@@ -1,0 +1,78 @@
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\bin\Release\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\bin\Release\plcdemo.pdb
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Release\ResolveAssemblyReference.cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Release\plcdemo.Form1.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Release\plcdemo.Properties.Resources.resources
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Release\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Release\plcdemo.exe
+F:\Develop_100625\PullSDK\Demo 程序\C# Demo\2010_11_3\plcdemo\obj\Release\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Release\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Release\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\bin\Release\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\bin\Release\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Release\ResolveAssemblyReference.cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Release\plcdemo.Form1.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Release\plcdemo.Properties.Resources.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_11_29\plcdemo\obj\Release\plcdemo.csproj.GenerateResource.Cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Release\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Release\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\bin\Release\plcdemo.exe
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\bin\Release\plcdemo.pdb
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Release\ResolveAssemblyReference.cache
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Release\plcdemo.Form1.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Release\plcdemo.Properties.Resources.resources
+F:\Develop_100625\SDK\PullSDK\Demo 程序\C# Demo\2010_12_22\plcdemo\obj\Release\plcdemo.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.exe.config
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.exe.manifest
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.application
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.exe
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.pdb
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Newtonsoft.Json.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\PubNub-Messaging.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Newtonsoft.Json.xml
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Interop.zkemkeeper.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Interop.zkonline.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\AxInterop.zkemkeeper.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\bin\Release\AxInterop.zkonline.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\Interop.zkemkeeper.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\Interop.zkonline.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\AxInterop.zkemkeeper.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\AxInterop.zkonline.dll
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.csproj.ResolveComReference.cache
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.PL.resources
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.Properties.Resources.resources
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.ZkFinger.resources
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.exe.manifest
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.application
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.exe
+C:\Users\Josh\Desktop\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.pdb
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.exe.config
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.exe.manifest
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.application
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.exe
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\plcdemo.pdb
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Newtonsoft.Json.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\PubNub-Messaging.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Newtonsoft.Json.xml
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Interop.zkemkeeper.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\Interop.zkonline.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\AxInterop.zkemkeeper.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\bin\Release\AxInterop.zkonline.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\Interop.zkemkeeper.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\Interop.zkonline.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\AxInterop.zkemkeeper.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\AxInterop.zkonline.dll
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.csproj.ResolveComReference.cache
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.PL.resources
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.Properties.Resources.resources
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.ZkFinger.resources
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.csproj.GenerateResource.Cache
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.exe.manifest
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.application
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.exe
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.pdb
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.csprojResolveAssemblyReference.cache
+E:\pullsdk and document\C# demo5.0\plcdemo\obj\Release\plcdemo.Settings.resources
